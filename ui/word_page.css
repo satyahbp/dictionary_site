@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background: rgb(245, 245, 245);
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    position: relative;
+    background: rgb(214, 214, 214);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    width: 100vm;
+}
+
+header h1{
+    color: rgba(36, 36, 36, 0.8);
+    font-size: 35px;
+    display: inline-block;
+    /* position: absolute; */
+    margin: 3px 0px 0px 5px;
+    padding: 5px;
+    /* border: 1px solid green; */
+}
+
+#search_container{
+    position: absolute;
+    right: 20px;
+    /* bottom: 0px; */
+    display: inline-block;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+#search{
+    height: 30px;
+    width: 200px;
+    border: 1px solid rgba(58, 58, 58, 0.39);
+    border-radius: 7px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+#search_button{
+    border-radius: 7px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background: rgb(0 55 102 / 80%);
+    cursor: pointer;
+}
+
+#search_button:hover{
+    background: rgba(1, 75, 139, 0.8);
+}
+
+#search_button:active{
+    background: rgb(0 55 102 / 80%);
+}
+
+#search_button_icon{
+    position: relative;
+    display: flex;
+    height: 30px;
+    width: 40px;
+    justify-content: center;
+    align-items: center;
+    /* background: rgb(0 55 102 / 80%); */
+    color: rgb(255, 255, 255);
+
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#word_explanation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid red; */
+    background: rgb(207, 229, 238);
+    width: 70%;
+}
+
+#word_for_explanation{
+    border: 1px solid rgba(185, 185, 185, 0.7);
+    background: rgb(203, 207, 221);
+    width: 100%;
+    padding: 5px 0px 5px 5px;
+    /* margin: 10px 0px; */
+}
+
+#word_description{
+    width: 80%;
+}
+
+.desc_point{
+    list-style: disc;
+    /* border: 1px solid blue; */
+    margin: 10px;
+    /* font-weight: 700; */
+}
+
+#not_exist_message{
+    margin: 10px 0px;
+}
+
+footer{
+    padding: 10px;
+    position: fixed;
+    margin: 0px 0px 10px 10px;
+    bottom: 2px;
+    border: 1px solid rgba(61, 61, 61, 0.25);
+    font-weight: 900;
+    background: rgb(214, 214, 214);
+}
