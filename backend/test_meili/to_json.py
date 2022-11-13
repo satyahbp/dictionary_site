@@ -9,9 +9,9 @@ words_list = list()
 for each_line in lines:
     each_line = each_line.strip()
     elements = each_line.split(" ")
-    word = elements[1]
+    word = elements[0]
 
-    meaning = " ".join(elements[3:])
+    meaning = " ".join(elements[2:])
 
     temp_dict = {
         "word": word,
