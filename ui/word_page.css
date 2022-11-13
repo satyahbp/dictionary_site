@@ -1,3 +1,7 @@
+:root{
+    --search_bar_standard_length: 200px;
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -35,18 +39,20 @@ header h1{
     right: 20px;
     /* bottom: 0px; */
     display: inline-block;
+    z-index: 20;
     /* justify-content: center; */
     /* align-items: center; */
 }
 
 #search{
     height: 30px;
-    width: 200px;
+    width: var(--search_bar_standard_length);
     border: 1px solid rgba(58, 58, 58, 0.39);
     border-radius: 7px;
     text-align: center;
     font-size: 15px;
     margin-right: 10px;
+    z-index: 10;
 }
 
 #search_button{
@@ -74,7 +80,42 @@ header h1{
     align-items: center;
     /* background: rgb(0 55 102 / 80%); */
     color: rgb(255, 255, 255);
+}
 
+#recommendation_list{
+    border: 1px solid rgba(158, 158, 158, 0.705);
+    width: var(--search_bar_standard_length);
+    position:relative;
+    top:72px;
+    right: 76px;
+    background: rgb(255, 255, 255);
+    z-index: 5;
+    border-radius: 0px 0px 7px 7px;
+    overflow: hidden;
+}
+
+.rec_li{
+    /* border: 1px solid blue; */
+    list-style-type: none;
+    border-bottom: 1px solid rgba(196, 196, 196, 0.719);
+    padding: 3px 0px 3px 10px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+.rec_li:first-child{
+    padding-top: 20px;
+
+}
+
+.rec_li:last-child{
+    border-bottom: none;
+
+}
+
+#recommendation_list li:hover{
+    background: #315d83;
+    color: white;
 }
 
 main{

@@ -21,7 +21,8 @@
     <main>
         <div class="main_div">
             <div id="search_container">
-                <input type="text" name="search_bar" id="search" placeholder="Type your word here...">
+                <input type="text" name="search_bar" id="search" placeholder="Type your word here..." onkeyup="continuous_word()">
+
                 <button type="submit" id="search_button" onclick="capture_word()"><i
                         class="fa-solid fa-magnifying-glass" id="search_button_icon"></i></button>
 
@@ -35,6 +36,9 @@
                     })
                 </script>
             </div>
+
+            <ul id="recommendation_list"></ul>
+
         </div>
     </main>
 

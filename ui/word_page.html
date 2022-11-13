@@ -15,7 +15,7 @@
     <header>
         <a href="index.html"><h1>My Dictionary</h1></a>
         <div id="search_container">
-            <input type="text" name="search_bar" id="search" placeholder="Type your word here...">
+            <input type="text" name="search_bar" id="search" placeholder="Type your word here..." onkeyup="continuous_word()">
             <button type="submit" id="search_button" onclick="capture_word()"><i
                     class="fa-solid fa-magnifying-glass" id="search_button_icon"></i></button>
 
@@ -29,6 +29,8 @@
                 })
             </script>
         </div>
+
+        <ul id="recommendation_list"></ul>
     </header>
 
     <main>
