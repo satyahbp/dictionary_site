@@ -219,6 +219,11 @@ footer{
         margin-top: 90px;
     }
 
+    #no_word{
+        margin: 10px 20px;
+        font-size: 15px;
+    }
+
     #word_explanation{
         width: 70%;
     }
@@ -291,6 +296,11 @@ footer{
 
     .rec_li{
         font-size: 13px;
+    }
+
+    #no_word{
+        margin: 10px 20px;
+        font-size: 14px;
     }
 
     main{
@@ -373,6 +383,11 @@ footer{
 
     .rec_li{
         font-size: 12px;
+    }
+
+    #no_word{
+        margin: 10px 15px;
+        font-size: 14px;
     }
 
     main{
@@ -458,6 +473,12 @@ footer{
         font-size: 11px;
     }
 
+    #no_word{
+        margin: 10px 12px;
+        font-size: 14px;
+        text-align: center;
+    }
+
     main{
         margin-top: 90px;
     }
@@ -539,6 +560,12 @@ footer{
 
     .rec_li{
         font-size: 11px;
+    }
+
+    #no_word{
+        margin: 10px 12px;
+        font-size: 13px;
+        text-align: center;
     }
 
     main{
@@ -628,6 +655,12 @@ footer{
 
     main{
         margin-top: 90px;
+    }
+
+    #no_word{
+        margin: 10px 12px;
+        font-size: 13px;
+        text-align: center;
     }
 
     #word_explanation{
@@ -723,6 +756,12 @@ footer{
         font-size: 10px;
     }
 
+    #no_word{
+        margin: 10px 12px;
+        font-size: 13px;
+        text-align: center;
+    }
+
     main{
         margin-top: 110px;
     }
@@ -815,6 +854,12 @@ footer{
 
     .rec_li{
         font-size: 10px;
+    }
+
+    #no_word{
+        margin: 10px 12px;
+        font-size: 12px;
+        text-align: center;
     }
 
     main{
@@ -917,6 +962,12 @@ footer{
 
     main{
         margin-top: 110px;
+    }
+
+    #no_word{
+        margin: 10px 12px;
+        font-size: 11px;
+        text-align: center;
     }
 
     #word_explanation{

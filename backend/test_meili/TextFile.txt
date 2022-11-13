@@ -1,101 +1,54 @@
-    1. Abase - cause to feel shame
-    2. Aberration - a state or condition markedly different from the norm
-    3. Abhor - feel hatred or disgust toward
-    4. Abject - most unfortunate or miserable
-    5. Abrasive - sharply disagreeable, unpleasant, or harsh
-    6. Baffle - be a mystery or bewildering to
-    7. Baleful - deadly or sinister
-    8. Balk - refuse to proceed or comply
-    9. Ballad - a narrative song with a recurrent refrain
-    10. Ban - prohibit especially by law or social pressure
-    11. Cacophonous - having an unpleasant sound
-    12. Cadaverous - of or relating to a corpse
-    13. Calamity - an event resulting in great loss and misfortune
-    14. Callow - young and inexperienced
-    15. Candid - openly straightforward and direct without secretiveness
-    16. Dally - waste time
-    17. Dapper - marked by up-to-datedness in dress and manners
-    18. Dauntless - invulnerable to fear or intimidation
-    19. Dawdle - take one's time; proceed slowly
-    20. Dearth - an insufficient quantity or number
-    21. Ebullient - joyously unrestrained
-    22. Eclectic - selecting what seems best of various styles or ideas
-    23. Edible - suitable for use as food
-    24. Edify - make understand
-    25. Efface - remove by or as if by rubbing or erasing
-    26. Fabricate - put together out of artificial or natural components
-    27. Facet - a distinct feature or element in a problem
-    28. Facile - performing adroitly and without effort
-    29. Facsimile - an exact copy or reproduction
-    30. Faction - a dissenting clique
-    31. Gaffe - a socially awkward or tactless act
-    32. Gallant - unflinching in battle or action
-    33. Galvanize - stimulate to action
-    34. Gamut - a complete extent or range
-    35. Garb - provide with clothes or put clothes on
-    36. Habitat - the type of environment in which an organism normally lives
-    37. Habitual - commonly used or practiced
-    38. Habitue - a regular patron
-    39. Hackneyed - repeated too often; overfamiliar through overuse
-    40. Haggard - showing the wearing effects of overwork or care or suffering
-    41. Iconoclast - someone who attacks cherished ideas or institutions
-    42. Idealistic - motivated by noble or moral beliefs rather than practicality
-    43. Ideological - concerned with or suggestive of mental concepts
-    44. Idiom - expression whose meaning cannot be inferred from its words
-    45. Idiosyncrasy - a behavioural attribute peculiar to an individual
-    46. Jaded - bored or apathetic after experiencing too much of something
-    47. Jargon - technical terminology characteristic of a particular subject
-    48. Jaunt - a journey taken for pleasure
-    49. Jaunty - having a cheerful, lively, and self-confident air
-    50. Jeer - laugh at with contempt and derision
-    51. Knowledge - facts, information, and skills acquired through experience or education; the theoretical or practical understanding of a subject.
-    52. Karma - the sum of a person's actions in this and previous states of existence, viewed as deciding their fate in future existences.
-    53. Kindness - the quality of being friendly, generous, and considerate.
-    54. Lavish - To give someone a lot of things, especially nice things. Can be tangible things or words. They lived a very lavish lifestyle.
-    55. Leisure - Personal, relaxing time, such as while on vacation.
-    56. Legendary - extremely popular; famous; fabled.
-    57. Latency - the delay before a transfer of data begins following an instruction for its transfer.
-    58. Management - To keep people or animals in order. Also, to succeed in a thing despite some difficulty.
-    59. Magazine - a periodical publication containing articles and illustrations, often on a particular subject or aimed at a particular readership
-    60. Magnificent - Extremely good-looking, beautiful, and impressive.
-    61. Nascent - immature; in process of birth. nasicornous, having a horn on the nose. nasillate, to speak in a nasal manner.
-    62. Nailed - to catch someone or deliver a blow to someone.
-    63. Nurture - To feed and protect; upbringing; taking care of
-    64. Obedient - dutifully complying with the commands of those in authority.
-    65. Opulent - rich and superior in quality.
-    66. Omniscient - knowing, seeing, or understanding everything. The Omniscient Being alone can have perfect knowledge of all beings and things as they are.
-    67. Paramount - more important than anything else; supreme.
-    68. Persistent - refusing to give up; never-ceasing;
-    69. Plentiful - containing or existing in great quantity or supply;
-    70. Quaint - unusual or old-fashioned in a pleasing way.
-    71. Quandary - state of uncertainty in a choice between unfavorable options.
-    72. Qualified - officially recognized as being trained to perform a particular job; certified.
-    73. Radiant - sending out light; shining or glowing brightly.
-    74. Reliable - consistently good in quality or performance; able to be trusted.
-    75. Resilient - able to withstand or recover quickly from difficult conditions
-    76. Sloppy - careless and unsystematic; excessively casual.
-    77. Sum - a particular amount of money
-    78. Shelter - a place giving temporary protection from bad weather or danger
-    79. Tactful - having or showing skill and sensitivity in dealing with others or with difficult issues
-    80. Task - a piece of work to be done or undertaken
-    81. Tear - pull (something) apart or to pieces with force
-    82. Umbrage - offence or annoyance
-    83. Union - offence or annoyance.
-    84. Ugly - unpleasant or repulsive, especially in appearance
-    85. Value - the regard that something is held to deserve; the importance, worth, or usefulness of something.
-    86. Versatile - able to adapt or be adapted to many different functions or activities
-    87. Vibrant - full of energy and life
-    88. Wear - have (something) on one's body as clothing, decoration, or protection
-    89. Wander - walk or move in a leisurely or aimless way
-    90. Way - a method, style, or manner of doing something; an optional or alternative form of action
-    91. Xerox - a xerographic copying process
-    92. Xenophobia - dislike of or prejudice against people from other countries.
-    93. Xylem - the vascular tissue in plants which conducts water and dissolved nutrients upwards from the root and also helps to form the woody element in the stem
-    94. Yawn - involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom
-    95. Yard - a unit of linear measure equal to 3 feet (0.9144 metre)
-    96. Yearn - have an intense feeling of longing for something, typically something that one has lost or been separated from
-    97. Yesterday - on the day before today
-    98. Zone - an area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions
-    99. Zoom - move or travel very quickly
-    100. Zest - great enthusiasm and energy
-    101. Zebra - an African wild horse with black-and-white stripes and an erect mane
+Kite - A toy consisting of a light frame with thin material stretched over it, flown in the wind at the end of a long string
+Lemon - A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice
+Mango - A fleshy, oval, yellowish-red tropical fruit that is eaten ripe or used green for pickles or chutneys
+Nest - A structure or place made or chosen by a bird for laying eggs and sheltering its young
+Olive - A small oval fruit with a hard stone and bitter flesh, green when unripe and bluish black when ripe, used as food and as a source of oil
+Predicament - A difficult, unpleasant, or embarrassing situation
+Quare - Remarkable or strange
+Reckon - Establish by calculation
+Scramble - Make one's way quickly or awkwardly up a steep gradient or over rough ground by using one's hands as well as one's feet
+Tactful - Having or showing skill and sensitivity in dealing with others or with difficult issues
+Epicureanism - an ancient school of philosophy founded in Athens by Epicurus. The school rejected determinism and advocated hedonism (pleasure as the highest good), but of a restrained kind: mental pleasure was regarded more highly than physical, and the ultimate pleasure was held to be freedom from anxiety and mental pain, especially that arising from needless fear of death and of the gods.
+Hedonism - the pursuit of pleasure; sensual self-indulgence.
+Utilitarianism - the doctrine that actions are right if they are useful or for the benefit of a majority.
+Onomatopoeia - the formation of a word from a sound associated with what is named (e.g. cuckoo, sizzle ).
+Gargantuan - enormous.
+Lexicon - the vocabulary of a person, language, or branch of knowledge.
+Rudimentary - involving or limited to basic principles.
+Cliché - a phrase or opinion that is overused and betrays a lack of original thought.
+Clandestine - kept secret or done secretively, especially because illicit.
+Dexterous - showing or having skill, especially with the hands.
+Precarious - not securely held or in position; dangerously likely to fall or collapse.
+Iffy - full of uncertainty; doubtful.
+Collate - collect and combine (texts, information, or data).
+Asynchronous - not existing or occurring at the same time.
+Euphemism - an indirect word or expression that you use instead of a more direct one when you are talking about something that is unpleasant or embarrassing; the use of such expressions
+Dichotomy - the separation that exists between two groups or things that are completely opposite to and different from each other
+Capricious - changing behavior suddenly in a way that is difficult to predict
+Quintessential - being the perfect example of something
+Cataclysmic - violently destructive
+Cumbersome - heavy and difficult to carry, use, wear, etc.
+Alluring - attractive and exciting in a way that is not easy to understand or explain
+Doppleganger - an apparition or double of a living person.
+Apparition - a ghost or an image of a person who is dead
+Exuberant - (used about a person or his/her behaviour) full of energy and excitement
+Flabbergast - surprise (someone) greatly; astonish.
+Expedite - make (an action or process) happen sooner or be accomplished more quickly.
+Bioluminescence - the biochemical emission of light by living organisms such as glow-worms and deep-sea fish.
+Erudite - having or showing great knowledge or learning.
+Paradigm - a typical example or pattern of something; a pattern or model.
+Bewitching - enchanting or delightful.
+Restless - unable to rest or relax as a result of anxiety or boredom.
+Trifling - unimportant or trivial.
+Heartsick - very despondent, typically from grief or loss of love.
+Shun - persistently avoid, ignore, or reject (someone or something) through antipathy or caution.
+Lacuna - an unfilled space; a gap.
+Ephemeral - lasting for a very short time.
+Idyllic - like an idyll; extremely happy, peaceful, or picturesque.
+Halcyon - denoting a period of time in the past that was idyllically happy and peaceful.
+Orphic - relating to Orpheus or Orphism.
+Aplomb - self-confidence or assurance, especially when in a demanding situation.
+Discombobulated - confused and disconcerted.
+Persnickety - placing too much emphasis on trivial or minor details; fussy.
+Zany - amusingly unconventional and idiosyncratic.
+Rambunctious - uncontrollably exuberant; boisterous.

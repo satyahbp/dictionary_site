@@ -23,7 +23,7 @@ function present_word(){
     let the_word = sessionStorage.getItem("currentWord");
     let received_json = undefined;
     // sending request
-    xhttp.open("GET", "http://localhost:2001/search/" + the_word);
+    xhttp.open("GET", "https://"+ window.location.host + "/dict/search/" + the_word);
     xhttp.send();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200){
@@ -80,7 +80,8 @@ function continuous_word(){
 
     // sending request
     if (input != ""){
-        xhttp.open("GET", "http://localhost:2001/continuous_search/" + input, true);
+        // xhttp.open("GET", "http://localhost:2001/continuous_search/" + input, true);
+        xhttp.open("GET", "https://"+ window.location.host + "/dict/continuous_search/" + input, true);
         xhttp.send();
         xhttp.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200){
